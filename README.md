@@ -1,2 +1,2 @@
 # Magic
-A free-to-use asset creator that runs locally in your browser.
+Online IDE that runs in your browser. What is my obsession with browsers
